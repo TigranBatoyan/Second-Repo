@@ -104,6 +104,7 @@ body{
     .logo{
         width:25%;
         position: fixed;
+        margin-bottom: 5%;
         text-align: center
     }
 }
