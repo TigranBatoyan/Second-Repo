@@ -78,9 +78,6 @@ body{
     .second{
         display:block
     }
-    body{
-        background: red
-    }
 }
 
 @media only screen and (max-width:479px){
@@ -89,9 +86,6 @@ body{
     }
     .grid__div__p:last-child{
         display:none
-    }
-    body{
-        background: yellow
     }
     .grid{
         display:grid;
