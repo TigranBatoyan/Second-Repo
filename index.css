@@ -1,3 +1,6 @@
+body{
+    text-align: center
+}
 .logo{
     width:25%;
     margin:0 auto;
@@ -27,5 +30,4 @@
     width:10%;
     border-radius: 10px;
     background: rgb(138, 180, 228);
-    margin:2% auto
 }
