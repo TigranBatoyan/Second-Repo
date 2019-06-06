@@ -15,7 +15,7 @@
 .list__li{
     display: inline;
     margin: 5%;
-    border:1px solid black
+    text-decoration: underline
 }
 .line{
     width:25%;
