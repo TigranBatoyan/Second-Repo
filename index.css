@@ -37,9 +37,10 @@ body{
     grid-template-columns: 1fr 1fr 1fr;
     grid-auto-rows: minmax(200px,auto);
     grid-gap: 5%;
+    justify-content: space-around;
     border:2px solid black
 }
 .grid__div{
     border:2px solid black;
-    justify-content: space-around
+    
 }
