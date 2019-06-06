@@ -35,9 +35,11 @@ body{
 .button{
     width:10%;
     height: 25px;
-    border-radius: 10%;
+    border-radius: 20%;
     background: rgb(138, 180, 228);
-    border:none
+    border:none;
+    text-align: center;
+    font-size: 80%
 }
 .button:hover{
     background: black;
