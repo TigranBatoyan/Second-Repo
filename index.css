@@ -50,7 +50,7 @@ body{
     border-radius: 10px;
     margin-top: 5%
 }
-.grid__div:first-child{
+.grid__div__p:first-child{
     width:60%;
     background: gray
 }
