@@ -20,5 +20,6 @@
 .line{
     width:20%;
     height:5px;
-    margin:2% auto
+    margin:2% auto;
+    background: black
 }
