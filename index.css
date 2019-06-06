@@ -50,3 +50,7 @@ body{
     border-radius: 10px;
     margin-top: 5%
 }
+.grid__div:last-child{
+    width:60%;
+    background: gray
+}
