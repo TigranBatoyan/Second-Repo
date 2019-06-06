@@ -33,7 +33,7 @@ body{
     background: black
 }
 .button{
-    width:50px;
+    width:70px;
     height: 25px;
     border-radius: 20%;
     background: rgb(138, 180, 228);
@@ -100,5 +100,9 @@ body{
         grid-gap: 5%;
         align-items: space-evenly;
         margin-top: 2%
+    }
+    .logo{
+        width:25%;
+        text-align: center
     }
 }
