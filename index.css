@@ -37,6 +37,7 @@ body{
     height: 25px;
     border-radius: 10px;
     background: rgb(138, 180, 228);
+    border:none
 }
 .button:hover{
     background: black;
