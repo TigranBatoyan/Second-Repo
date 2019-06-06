@@ -41,7 +41,8 @@ body{
 }
 .button:hover{
     background: black;
-    color:silver
+    color:silver;
+    cursor: pointer
 }
 .grid{
     display:grid;
