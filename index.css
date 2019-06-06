@@ -24,6 +24,7 @@ body{
     background: black;
     color:silver;
     border-radius: 10px;
+    cursor: pointer
 }
 .line{
     width:25%;
@@ -36,6 +37,10 @@ body{
     height: 25px;
     border-radius: 10px;
     background: rgb(138, 180, 228);
+}
+.button:hover{
+    background: black;
+    color:silver
 }
 .grid{
     display:grid;
@@ -52,11 +57,12 @@ body{
     width:100%;
     border:2px solid black;
     border-radius: 10px;
-    margin:5% auto
+    margin:5% auto;
+    background: white
 }
 .grid__div__p:first-child{
     width:50%;
-    background: silver
+    background: gray
 }
 .grid__div__p:last-child{
     width:80%;
