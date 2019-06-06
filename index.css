@@ -77,4 +77,7 @@ body{
     .second{
         display:block
     }
+    body{
+        background: red
+    }
 }
