@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: gray
+    background: rgb(71, 70, 70)
 }
 .logo{
     width:25%;
@@ -21,7 +21,8 @@ body{
     text-decoration: underline
 }
 .list__li:hover{
-    background: black
+    background: black;
+    color:silver
 }
 .line{
     width:25%;
