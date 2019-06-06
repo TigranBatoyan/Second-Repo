@@ -115,7 +115,7 @@ body{
         right:2%
     }
     .list__li{
-        margin: 15%;
+        margin: 20%;
         display: block
     }
     .list__li:last-child{
