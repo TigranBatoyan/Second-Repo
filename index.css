@@ -115,8 +115,11 @@ body{
         right:2%
     }
     .list__li{
-        margin: 10%;
+        margin: 15%;
         display: block
+    }
+    .list__li:last-child{
+        display: none
     }
     .logo__img{
         width:100%;
