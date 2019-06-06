@@ -107,9 +107,12 @@ body{
         text-align: center
     }
     .list{
-        color:green
+        list-style: none;
+        text-align: center;
+        margin-right: 0
     }
     .list__li{
         margin: 5%;
+        display: block
     }
 }
