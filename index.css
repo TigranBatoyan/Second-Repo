@@ -107,8 +107,7 @@ body{
         text-align: center
     }
     .list{
-        text-align: center;
-        margin-right: 0
+        color:green
     }
     .list__li{
         margin: 5%;
