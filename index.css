@@ -28,6 +28,7 @@ body{
 }
 .button{
     width:10%;
+    height: 25px;
     border-radius: 10px;
     background: rgb(138, 180, 228);
 }
