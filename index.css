@@ -17,3 +17,8 @@
     display: inline;
     margin: 5%
 }
+.line{
+    width:20%;
+    height:5px;
+    margin:2% auto
+}
