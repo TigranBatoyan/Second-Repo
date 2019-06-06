@@ -37,8 +37,8 @@ body{
     border:2px solid black
 }
 .flex__div{
-    flex-grow: 1;
-    height:300px;
+    width:300px;
+    height:200px;
     border:2px solid black;
     justify-content: space-around
 }
