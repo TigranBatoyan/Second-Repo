@@ -109,7 +109,8 @@ body{
     .list{
         list-style: none;
         text-align: center;
-        margin-right: 0
+        margin-right: 0;
+        position: absolute
     }
     .list__li{
         margin: 5%;
