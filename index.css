@@ -92,4 +92,12 @@ body{
     body{
         background: yellow
     }
+    .grid{
+        display:grid;
+        grid-template-columns: 100%;
+        grid-auto-rows: 25% 25% 25%;
+        grid-gap: 5%;
+        align-items: space-evenly;
+        margin-top: 2%
+    }
 }
