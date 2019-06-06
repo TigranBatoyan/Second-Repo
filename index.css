@@ -22,7 +22,9 @@ body{
 }
 .list__li:hover{
     background: black;
-    color:silver
+    color:silver;
+    border-radius: 10px;
+    transform: scale(1,5)
 }
 .line{
     width:25%;
