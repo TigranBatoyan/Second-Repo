@@ -108,7 +108,7 @@ body{
     }
     .list{
         list-style: none;
-        text-align: center;
+        text-align: left;
         margin-right: 0;
         position: absolute;
         top:0;
