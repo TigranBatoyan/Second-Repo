@@ -32,3 +32,12 @@ body{
     border-radius: 10px;
     background: rgb(138, 180, 228);
 }
+.flex{
+    display:flex;
+    border:2px solid black
+}
+.flex__div{
+    flex-flow: 1;
+    border:2px solid black;
+    justify-content: space-evenly
+}
