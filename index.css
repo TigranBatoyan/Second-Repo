@@ -4,7 +4,6 @@ body{
 .logo{
     width:25%;
     margin:0 auto;
-    border:2px solid black;
     text-align: center
 }
 .logo__img{
