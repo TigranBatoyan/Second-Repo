@@ -33,12 +33,12 @@ body{
     background: rgb(138, 180, 228);
 }
 .flex{
-    display:flex;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: minmax(200px,auto);
     border:2px solid black
 }
-.flex__div{
-    width:300px;
-    height:200px;
+.grid__div{
     border:2px solid black;
-    justify-content: space-around
+    justify-content: space-evenly
 }
