@@ -103,7 +103,7 @@ body{
     }
     .logo{
         width:25%;
-        position: absolute;
+        position: relative;
         text-align: center
     }
 }
