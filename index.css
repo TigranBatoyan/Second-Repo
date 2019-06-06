@@ -66,6 +66,9 @@ body{
     width:50%;
     background: gray
 }
+.second{
+    display:none
+}
 .grid__div__p:last-child{
     width:80%;
 }
