@@ -23,3 +23,8 @@
     margin:2% auto;
     background: black
 }
+.button{
+    width:20%;
+    border-radius: 10px;
+    background: rgb(138, 180, 228)
+}
