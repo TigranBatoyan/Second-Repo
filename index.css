@@ -37,8 +37,8 @@ body{
     border:2px solid black
 }
 .flex__div{
-    flex-flow: 1;
     width:300px;
+    height:400px;
     border:2px solid black;
     justify-content: space-evenly
 }
